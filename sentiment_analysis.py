@@ -1,5 +1,6 @@
 # First, ensure you have the transformers library installed
-!pip install transformers
+# !pip install transformers
+
 # Import the necessary library
 from transformers import pipeline
 # Create a sentiment analysis pipeline
