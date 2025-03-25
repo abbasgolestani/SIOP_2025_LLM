@@ -1,7 +1,6 @@
 sentence1,sentence2,label,idx
-my work life balance has improved in the last couple of months,my worklife balance is awful,0.01,1
-I love my job and what I do here,My work is aligning with my passion,0.85,2
-Our tools are supposed to enable us to work faster and more efficiently but sometimes they slow us down tremendously,burdensome tools and processes hurt productivity,0.7,3
-I am excited about our company vision Definitely our company vision will be the next breakthrough to change the world and I am so happy and proud to work here,0.68,4
-The leadership is very good with the employees,To be clear - leadership here is VP level leadership.,0.2,5
-I believe at this level of experience some of us are under market rates for this level of industry experience,compensation is not competitive compared to others,0.75,6
+"my work life balance has improved in the last couple of months","my worklife balance is awful",0.01,1
+"I love my job and what I do here","My work is aligning with my passion",0.85,2
+"I am excited about our company vision", Definitely our company vision will be the next breakthrough to change the world and I am so happy and proud to work here",0.68,4
+"The leadership is very good with the employees","To be clear leadership here is VP level leadership",0.2,5
+"I believe some of us are under market rates for this level of industry experience","compensation is not competitive compared to others",0.75,6
