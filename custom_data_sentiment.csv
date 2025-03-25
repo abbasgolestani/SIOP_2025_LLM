@@ -1,0 +1,10 @@
+sentence, sentiment
+"I love this product, it's amazing!",  0.92
+"This is the best experience I've ever had.", 0.88
+"Absolutely fantastic service!", 0.65
+"The product is okay, nothing special.", 0.03
+"It is an average experience.",  0
+"I neither like nor dislike it.",  0.01
+"I am very disappointed with the quality.", -0.75
+"This is the worst purchase I've made.", -0.83
+"I regret buying this item.", -0.58
