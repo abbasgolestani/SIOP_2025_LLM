@@ -15,7 +15,7 @@ sentiment_pipeline = pipeline("sentiment-analysis")
 texts = [
     "I love coming to SIOP for LLM workshop!",
     "This is the worst experience I've ever had.",
-    "I'm feeling quite neutral about this."
+    "This room is reserved for the LLM workshop."
 ]
 # Analyze the sentiment of each text
 for text in texts:
